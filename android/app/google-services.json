@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "405119793497",
+    "firebase_url": "https://proyecto-bomba-agua-default-rtdb.firebaseio.com",
+    "project_id": "proyecto-bomba-agua",
+    "storage_bucket": "proyecto-bomba-agua.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405119793497:android:c02cb911c08c322a5c3448",
+        "android_client_info": {
+          "package_name": "com.erickBot.flutter_view_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAprY6R3-GfG12UlhhkgXYpOiGZYMLgHVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
